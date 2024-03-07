@@ -3,22 +3,24 @@
 - **Phone:** +36317810060
 - **LinkedIn:** [https://www.linkedin.com/in/adam-kecskes-000870a4/](https://www.linkedin.com/in/adam-kecskes-000870a4/)
 ## Introduction
-I am seeking an environment where I can collaborate with motivated individuals and where performance is recognized and rewarded. I am happy to pick up new skills to help us achieve our objectives and I find my way to be impactful. 
+
+I am an engineer who intuitively identifies which corners should be cut, then reasons for his decisions in detail. I have the most fun when I get the opportunity to deeply immerse myself into problem-solving scenarios. I am seeking an environment where I can collaborate with motivated individuals and where performance is recognized and rewarded. Eager to acquire new skills to contribute effectively to our shared objectives, I am adept at making a positive impact, even in situations where predefined goals may pose challenges.
 ## Skills
-### Technologies
+### Technologies WILL REMOVE
 AWS, Python, Django, (No)SQL databases, React, Javascript, Selenium, Git, .NET, C#, Java, Kotlin, Docker, Kubernetes, Terraform
-### Technical Software Expertise
-- Process estabilishment and improvement
-- Architecture
-- (Automatic) Testing
 ## Experience
 ### Senior Software Engineer
 **Ada Health** - June 2022 - Present
-- Drove tech initiatives and made architectural decisions.
+Digital health company that provides personalized health information and assistance by AI.
+*Tech: LLM, Python, Kotlin, Java, Kubernetes, Docker, Terraform*
+- Been member of all teams responsible for delivering Ada's medical reasoning capabilities. (AI, research, validation, dev)
+- Drive tech initiatives and make architectural decisions.
+	- Enchancement of medical report generation with LLM.
+		- I prioritized time to market over clean architecture
+	- Multi tenancy implementation of Ada's medical platform by configurability.
 - Took ownership of evaluating the performance of Ada's AI.
 	- Unified multiple redundant processes by providing a software solution that replaced 4 different components owned by 4 different teams.
-	- Improved processes involving multiple teams, built bridges between them.
-- Found my way to make a positive impact even when I can not make progress on the goals that were set for me
+  - Improved processes involving multiple teams, built bridges between them.
 ### Senior Software Engineer
 **Hearsay Systems** - March 2021 - April 2022
 - Developed and maintained a BPM service capable of listening to events within the company's services boundaries.
