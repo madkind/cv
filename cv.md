@@ -11,6 +11,7 @@ AWS, Python, Django, (No)SQL databases, React, Javascript, Selenium, Git, .NET, 
 ### Senior Software Engineer
 **Ada Health** - June 2022 - Present
 Digital health company that provides personalized health information and assistance to its users. The AI based medical assessment product is free to use for consumers, and is sold to businesses who can reduce workload on their staff by being able to prioritize who to provide care for and when.
+
 *Tech: LLM, Python, Kotlin, Java, Kubernetes, Docker, Terraform*
 - Been member of all teams responsible for delivering Ada's medical reasoning capabilities. (AI, research, validation, dev)
 	- I can make the most impact where I am needed the most.
@@ -23,6 +24,7 @@ Digital health company that provides personalized health information and assista
 - Improved processes involving multiple teams, built bridges between them.
 ### Senior Software Engineer
 **Hearsay Systems** - March 2021 - April 2022
+
 *Tech: AWS, Terraform, Python, Java, Kotlin, React, noSQL, Snowflake*
 Hearsay's clients are companies who provide financial services (Charles Schwab, BlackRock, New York Life, RBC, and AIVA). The team is responsible for a BPM platform in which automatically connecting insurance agents with prospects can be defined in a single configuration file, and more.
 - Proposed and implemented architectural decisions.
@@ -34,6 +36,7 @@ Hearsay's clients are companies who provide financial services (Charles Schwab, 
 - DevOps and on-call experience over serverless infrastructure.
 ### Full Stack Software Engineer
 **CloudCode** - June 2019 - February 2021, Budapest
+
 *Tech: Python, Django, React, SQL, Kubernetes, webshop engines*
 CloudCode provides webshop owners with a comprehensive framework, offering a unified user interface for handling various aspects of their business, including order fulfillment, product information and inventory management, as well as financial tasks.
 - Contributed to the development of a cloud-based ERP system using Django and React.
@@ -42,11 +45,13 @@ CloudCode provides webshop owners with a comprehensive framework, offering a uni
 - Gained valuable experience in CI/CD and Kubernetes.
 ### Full Stack Software Engineer
 **Rollet** - September 2018 - June 2019, Budapest
+
 *Tech: Python, Django, React, SQL, AWS*
 - Learned React and Django on the job.
 - Contributed to the development of the backend platform and the management interface of a cloud-based IoT solution handling payments.
 ### Junior Software Engineer
 **Abesse** - April 2015 - November 2017, Budapest
+
 *Tech: C#, .Net, React, SQL, BPM*
 - Developed and delivered a workflow-integrated content management system.
 - Actively participated in the entire development process, from writing functional specifications to deployment and providing on-site support.
