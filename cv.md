@@ -38,7 +38,7 @@ Hearsay's clients are companies who provide financial services (Charles Schwab, 
 ### Full Stack Software Engineer
 **CloudCode** - June 2019 - February 2021, Budapest
 
-*Tech: Python, Django, React, SQL, Kubernetes, Docker, webshop engines*
+*Tech: Python, Django, React, SQL, Kubernetes, Docker, Selenium, webshop engines*
 
 CloudCode provides webshop owners with a comprehensive framework, offering a unified user interface for handling various aspects of their business, including order fulfillment, product information and inventory management, as well as financial tasks.
 - Contributed to the development of a cloud-based ERP system using Django and React.
