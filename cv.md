@@ -4,9 +4,7 @@
 -  **Phone:** +36317810060
 -  **LinkedIn:** [https://www.linkedin.com/in/adam-kecskes-000870a4/](https://www.linkedin.com/in/adam-kecskes-000870a4/)
 ## Introduction
-I am an engineer who intuitively identifies which corners should be cut, then reasons for his decisions in detail. I have the most fun when I get the opportunity to deeply immerse myself into problem-solving scenarios. Eager to acquire new skills to contribute effectively to our shared objectives, I am adept at making a positive impact, even in situations where predefined goals may pose challenges. I am seeking an environment where I can collaborate with motivated individuals and where performance is recognized and rewarded.
-### Technologies WILL REMOVE
-AWS, Python, Django, (No)SQL databases, React, Javascript, Selenium, Git, .NET, C#, Java, Kotlin, Docker, Kubernetes, Terraform
+I am an engineer who intuitively identifies which corners should be cut, then reasons for his decisions in detail. I believe that making timely decisions with incomplete information can be more advantageous than waiting for perfect clarity. I have the most fun when I get the opportunity to deeply immerse myself into problem-solving scenarios. Eager to acquire new skills to contribute effectively to our shared objectives, I am adept at making a positive impact, even in situations where predefined goals may pose challenges. I am seeking an environment where I can collaborate with motivated individuals and where performance is recognized and rewarded.
 ## Experience
 ### Senior Software Engineer
 **Ada Health** - June 2022 - Present
@@ -32,7 +30,7 @@ Digital health company that provides personalized health information and assista
 Hearsay's clients are companies who provide financial services (Charles Schwab, BlackRock, New York Life, RBC, and AIVA). The team is responsible for a BPM platform in which automatically connecting insurance agents with prospects can be defined in a single configuration file, and more.
 - Proposed and implemented architectural decisions.
 	- Introduction of reusable workflow components to enable code sharing between products.
-	- Making our workflows automatically testable.
+	- Enabling our workflows to be automatically testable.
 - Maintained an in-house micro-frontend platform that enabled the teams to develop web pages that consist of multiple React applications.
 	- This enabled us to refactor our monolith SSR application by providing the ability to decouple frontend components from it.
 - Developed and maintained new and existing microservices.
