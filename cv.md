@@ -4,7 +4,7 @@
 -  **Phone:** +36317810060
 -  **LinkedIn:** [https://www.linkedin.com/in/adam-kecskes-000870a4/](https://www.linkedin.com/in/adam-kecskes-000870a4/)
 ## Introduction
-I am an engineer who intuitively identifies which corners should be cut, then reasons for his decisions in detail. I believe that making timely decisions with incomplete information can be more advantageous than waiting for perfect clarity. I have the most fun when I get the opportunity to deeply immerse myself into problem-solving scenarios. Eager to acquire new skills to contribute effectively to our shared objectives, I am adept at making a positive impact, even in situations where predefined goals may pose challenges. I am seeking an environment where I can collaborate with motivated individuals and where performance is recognized and rewarded.
+I am an engineer adept at intuitively identifying key priorities and justifying my decisions with detailed reasoning. I excel in making timely decisions with incomplete information, valuing action over perfect clarity. My passion lies in deep problem-solving, and I continuously seek new skills to enhance our shared objectives. I thrive in environments where I can collaborate with motivated individuals and where performance is recognized and rewarded, consistently making a positive impact even in challenging situations.
 ## Experience
 ### Senior Software Engineer
 **Ada Health** - June 2022 - Present
@@ -61,6 +61,4 @@ CloudCode provides webshop owners with a comprehensive framework, offering a uni
 - Actively participated in the entire development process, from writing functional specifications to deployment and providing on-site support.
 ## Education
 #### Óbuda University, Budapest
-- Bachelor of Science in Computer Science Engineering
-	- 2018
-	-  **GPA:** 4.0
+- Bachelor of Science in Computer Science Engineering, 2018
