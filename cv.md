@@ -9,11 +9,11 @@ I am an engineer adept at intuitively identifying key priorities and justifying 
 ### Senior Software Engineer
 **Ada Health** - June 2022 - Present
 
-Digital health company that provides personalized health information and assistance to its users. The AI based medical assessment product is free to use for consumers, and is sold to businesses who can reduce workload on their staff by being able to prioritize who to provide care for and when.
+Digital health company that provides personalized health information and assistance to its users and customers (Pfizer, Jefferson, Quin) by AI solutions.
 
 *Tech: LLM, Python, Kotlin, Java, Kubernetes, Docker, Terraform*
 
-- Been member of all teams responsible for delivering Ada's medical reasoning capabilities. (AI, research, validation, dev)
+- Been member of all teams responsible for delivering Ada's medical reasoning capabilities. (AI, research, validation, dev, internal tooling)
 	- I can make the most impact where I am needed the most.
 - Took ownership over evaluating the performance of Ada's AI.
 	- Unified multiple redundant processes by providing a software solution that replaced 4 different components owned by 4 different teams.
